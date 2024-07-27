@@ -1,6 +1,6 @@
-# Heviin-Split
+# Heviin Hub
 
-Heviin é um aplicativo para Shopify que permite que fornecedores se cadastrem e cadastrem seus produtos diretamente na sua loja, com uma função de gateway de pagamento que divide automaticamente os pagamentos entre o fornecedor e o administrador da loja.
+Heviin Hub é um aplicativo para Shopify que permite que fornecedores se cadastrem e cadastrem seus produtos diretamente na sua loja, com uma função de gateway de pagamento que divide automaticamente os pagamentos entre o fornecedor e o administrador da loja.
 
 ## Funcionalidades
 
